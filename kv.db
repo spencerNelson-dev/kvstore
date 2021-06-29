@@ -1,1 +1,5 @@
+CARGO RUN	How to run a rust program through cargo
+key	value
+cargo run	How to run a rust program through cargo
+KEY	value
 hello	world
